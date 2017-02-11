@@ -1,2 +1,2 @@
-# kotlin-android-extensions
+# Kotlin Android Extensions
 Android Sample Using Kotlin Extensions
